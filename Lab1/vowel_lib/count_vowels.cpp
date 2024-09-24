@@ -1,9 +1,9 @@
 #include <string>
 
-int count_vowels_from_string(std::string input_string)
+int count_vowels_from_string(const std::string& input_string)
 {
     int count = 0;
-    for (char letter: input_string)
+    for (char letter : input_string)
     {
         switch (std::tolower(letter))
         {

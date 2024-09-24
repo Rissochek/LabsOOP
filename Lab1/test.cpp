@@ -1,7 +1,7 @@
 #include <iostream>
 #include "googletest/googletest/include/gtest/gtest.h"
 
-int count_vowels_from_string(std::string input_string);
+int count_vowels_from_string(const std::string& input_string);
 
 TEST(Tests_should_complete, All_vowels_test) {
   ASSERT_EQ(count_vowels_from_string("aoeui"), 5);

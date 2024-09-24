@@ -1,6 +1,6 @@
 #include <string>
 #include <iostream>
-#include "vowel_lib/count_vowels.cpp"
+#include "vowel_lib/vowel_lib.h"
 
 int main()
 {

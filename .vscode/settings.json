@@ -66,6 +66,16 @@
         "xstring": "cpp",
         "xtr1common": "cpp",
         "xtree": "cpp",
-        "xutility": "cpp"
-    }
+        "xutility": "cpp",
+        "algorithm": "cpp",
+        "array": "cpp",
+        "chrono": "cpp",
+        "csignal": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "fstream": "cpp",
+        "iomanip": "cpp",
+        "unordered_set": "cpp"
+    },
+    "cmake.sourceDirectory": "E:/LABS_OOP/LabsOOP/Lab1"
 }

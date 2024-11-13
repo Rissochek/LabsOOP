@@ -84,7 +84,8 @@
         "numeric": "cpp",
         "random": "cpp",
         "numbers": "cpp",
-        "text_encoding": "cpp"
+        "text_encoding": "cpp",
+        "semaphore": "cpp"
     },
     "cmake.sourceDirectory": "E:/LABS_OOP/LabsOOP/Lab1"
 }

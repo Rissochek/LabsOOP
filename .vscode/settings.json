@@ -85,7 +85,8 @@
         "random": "cpp",
         "numbers": "cpp",
         "text_encoding": "cpp",
-        "semaphore": "cpp"
+        "semaphore": "cpp",
+        "shared_mutex": "cpp"
     },
     "cmake.sourceDirectory": "E:/LABS_OOP/LabsOOP/Lab1"
 }

@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libNPCFactoryLibrary.a CMakeFiles/NPCFactoryLibrary.dir/main.cpp.obj CMakeFiles/NPCFactoryLibrary.dir/lib/NpcLib/Npc.cpp.obj CMakeFiles/NPCFactoryLibrary.dir/lib/ObserverLib/Observer.cpp.obj CMakeFiles/NPCFactoryLibrary.dir/lib/UtillsLib/Utills.cpp.obj CMakeFiles/NPCFactoryLibrary.dir/lib/FactoryLib/Factory.cpp.obj CMakeFiles/NPCFactoryLibrary.dir/lib/VisitorLib/Visitor.cpp.obj
+C:\mingw64\bin\ranlib.exe libNPCFactoryLibrary.a

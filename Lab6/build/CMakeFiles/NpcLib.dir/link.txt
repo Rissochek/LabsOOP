@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libNpcLib.a CMakeFiles/NpcLib.dir/lib/NpcLib/Npc.cpp.obj
+C:\mingw64\bin\ranlib.exe libNpcLib.a

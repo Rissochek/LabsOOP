@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libFactoryLib.a CMakeFiles/FactoryLib.dir/lib/FactoryLib/Factory.cpp.obj
+C:\mingw64\bin\ranlib.exe libFactoryLib.a

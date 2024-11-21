@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libUtillsLib.a CMakeFiles/UtillsLib.dir/lib/UtillsLib/Utills.cpp.obj
+C:\mingw64\bin\ranlib.exe libUtillsLib.a

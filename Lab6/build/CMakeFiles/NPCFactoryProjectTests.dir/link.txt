@@ -1,0 +1,3 @@
+C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\NPCFactoryProjectTests.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\NPCFactoryProjectTests.dir/objects.a @CMakeFiles\NPCFactoryProjectTests.dir\objects1.rsp
+C:\mingw64\bin\c++.exe -Wl,--whole-archive CMakeFiles\NPCFactoryProjectTests.dir/objects.a -Wl,--no-whole-archive -o NPCFactoryProjectTests.exe -Wl,--out-implib,libNPCFactoryProjectTests.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\NPCFactoryProjectTests.dir\linkLibs.rsp

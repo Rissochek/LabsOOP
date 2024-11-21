@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libObserverLib.a CMakeFiles/ObserverLib.dir/lib/ObserverLib/Observer.cpp.obj
+C:\mingw64\bin\ranlib.exe libObserverLib.a

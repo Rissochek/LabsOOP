@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libVisitorLib.a CMakeFiles/VisitorLib.dir/lib/VisitorLib/Visitor.cpp.obj
+C:\mingw64\bin\ranlib.exe libVisitorLib.a

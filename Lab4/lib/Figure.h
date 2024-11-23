@@ -241,7 +241,9 @@ Figure<T>& Figure<T>::operator =(Figure&& other){
 template <scalar T>
 std::ostream& operator << (std::ostream& os, const Figure<T>& obj){
     for (size_t i = 0; i < obj.points_count; i++){
-        os << "Point " << i << " = (" << obj.points_array[i].x << "," << obj.points_array[i].y << ")" << std::endl;
+        T a,b;
+        obj.points_array[i].get_point(a,b);
+        os << "Point " << i << " = (" << a << "," << b << ")" << std::endl;
     }
     return os;
 }

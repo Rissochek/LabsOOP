@@ -1,0 +1,10 @@
+Knight 2 beats Dragon 0
+Dragon 4 beats Pegas 0
+Dragon 2 beats Pegas 1
+Dragon 4 beats Pegas 2
+Dragon 3 beats Pegas 3
+Knight 3 beats Dragon 3
+Knight 2 beats Dragon 4
+Knight 0 beats Dragon 1
+Dragon 2 beats Pegas 4
+Dragon 2 beats Pegas 5

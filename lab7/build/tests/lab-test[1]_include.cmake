@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/c/Users/rusla/coding/LabsOOP/lab7/build/tests/lab-test[1]_tests.cmake")
+  include("/mnt/c/Users/rusla/coding/LabsOOP/lab7/build/tests/lab-test[1]_tests.cmake")
+else()
+  add_test(lab-test_NOT_BUILT lab-test_NOT_BUILT)
+endif()
